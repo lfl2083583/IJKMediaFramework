@@ -1,1 +1,0 @@
-../../../LogglyLogger-CocoaLumberjack/LogglyLogger-CocoaLumberjack/LogglyFields.h
