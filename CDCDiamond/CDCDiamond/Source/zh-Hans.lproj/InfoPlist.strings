@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  RapNet
+
+  Created by liufulin on 2019/7/12.
+  Copyright © 2019 lptechnology. All rights reserved.
+*/
+
+NSLocationWhenInUseUsageDescription = "CDC Diamond需要使用地理位置功能来促进更好的使用体验。";
+
+NSPhotoLibraryUsageDescription = "CDC Diamond 需要读取媒体资料库。";
+
+NSCameraUsageDescription = "CDC Diamond 需要使用相机功能。";
